@@ -1,4 +1,4 @@
 # Induction-programme
-**Name** Sourav
-**Course** Mechanical
-**Section** MEB
+**Name** Sourav  
+**Course** Mechanical  
+**Section** MEB  
