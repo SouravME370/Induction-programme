@@ -2,4 +2,4 @@
 **Name** Sourav  
 **Course** Mechanical  
 **Section** MEB  
-![Uploading 17551498047154360902012651316768.jpg…]()
+#Day 1( 30 July 2025) 
